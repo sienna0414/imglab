@@ -1,5 +1,5 @@
 
-1.题目
+1.题目DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis
 
 连接：
 
@@ -11,7 +11,7 @@
 
 数据集：
 
-贡献：
+贡献：实验，不仅证明了DiRA的可泛化性，而且还证明了它的潜力
 
 2.Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels
 
