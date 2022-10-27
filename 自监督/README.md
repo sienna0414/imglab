@@ -27,5 +27,17 @@
 
 贡献：有效利用了包括不可靠样本在内的无标签数据，大幅提升了语义分割精度
 
+3.题目 Leverage Y our Local and Global Representations: A New Self-Supervised Learning Strategy
 
+连接：https://arxiv.org/abs/2203.17205
+
+代码连接：
+
+上传者：田佳渊
+
+关键词： 语义分割 自监督
+
+数据集：CIFAR10, STL10, and ImageNet100 (IN-100) 
+
+贡献：LoGo提倡两种局部视图具有不同的代表性，鼓励它们的不相似性，从而防止退化解，同时接近全局视图，同一图像的局部视图看起来比来自不同图像的更相似，可以轻松应用于现有的SSL方法，在各种数据集上的广泛实验以及使用不同的自我监督学习框架验证了其优于现有方法的优势
 
