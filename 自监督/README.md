@@ -27,7 +27,7 @@
 
 贡献：有效利用了包括不可靠样本在内的无标签数据，大幅提升了语义分割精度
 
-3.题目 Leverage Y our Local and Global Representations: A New Self-Supervised Learning Strategy
+3.题目 Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy
 
 连接：https://arxiv.org/abs/2203.17205
 
